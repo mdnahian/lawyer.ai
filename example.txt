@@ -1,0 +1,68 @@
+{
+  "emotion": {
+    "document": {
+      "emotion": {
+        "anger": 0.366483,
+        "joy": 0.024567,
+        "sadness": 0.274059,
+        "fear": 0.400126,
+        "disgust": 0.269652
+      }
+    }
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.501657,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "entities": [
+    {
+      "relevance": 0.90372,
+      "text": "Cuba",
+      "type": "Location",
+      "count": 1
+    },
+    {
+      "relevance": 0.814088,
+      "text": "john",
+      "type": "Person",
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "relevance": 0.844222,
+      "text": "Immigration",
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration"
+    },
+    {
+      "relevance": 0.716016,
+      "text": "Puerto Rico",
+      "dbpedia_resource": "http://dbpedia.org/resource/Puerto_Rico"
+    }
+  ],
+  "keywords": [
+    {
+      "relevance": 0.964732,
+      "text": "DUI"
+    },
+    {
+      "relevance": 0.933957,
+      "text": "immigrant"
+    },
+    {
+      "relevance": 0.897074,
+      "text": "danger"
+    },
+    {
+      "relevance": 0.86602,
+      "text": "Cuba"
+    },
+    {
+      "relevance": 0.579154,
+      "text": "john"
+    }
+  ]
+}
